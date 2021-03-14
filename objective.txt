@@ -1,0 +1,4 @@
+Understand hwo the clone is used
+Understand how it deals with the switches
+
+https://openprocessing.org/sketch/408132
